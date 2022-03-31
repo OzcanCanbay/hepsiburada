@@ -1,0 +1,119 @@
+@font-face {
+    font-family:amatic;
+    src: url(/Font/AmaticSC-Regular.ttf);
+}
+@font-face {
+    font-family:pango;
+    src: url(/Font/Pangolin-Regular.ttf);
+}
+.container{
+    width: 1400px;
+    height: 127,09;
+}
+.h1{
+    font-family: pango;
+    margin-top: 3%;
+    width: 165px;
+    height: 28px;
+    margin-left: 49%;
+    font-size: 50px;
+    color:orange;
+}
+.container2{
+    width: 1400px;
+    height: 500px;
+}
+.kutu{
+    width: 800px;
+    height:400px;
+    margin-top: 5%;
+    margin-left: 50%;
+}
+.uye{
+    margin-left: 27%;
+    margin-top: 3%;
+    display: flex;
+}
+.uye1{
+    width: 105px;
+}
+.btn-outline-secondary{
+    font-family: amatic;
+    font-size: 30px;
+}
+.uye2{
+    margin-left: 20%;
+    margin-top: -6.3%;
+    width: 80px;
+    margin-top: 1px;
+}
+.label{
+    width: 35%;
+    margin-left: 29%;
+    margin-top: 5%;
+}
+.butongrs{
+    margin-left: 43%;
+    margin-top: 5%;
+}
+.btn-outline-dark{
+    font-family: amatic;
+    font-size: 20px;
+}
+.link{
+    margin-top: 2%;
+    
+}
+a{
+    text-decoration: none;
+    color: orange;
+    font-family: pango;
+    font-size: 20px;
+}
+.sosyal{
+    text-align: center;
+    margin-left: -10%;
+    margin-top: 2%;
+    font-family:amatic;
+    font-size: 40px;
+}
+.p{
+    margin-top: -1%;
+    margin-left: 3%;
+    font-family:amatic;
+    font-size: 27px;
+}
+.container3{
+    width: 1400px;
+    height: 190px;
+    margin-left:22%;
+    margin-top:-3%
+}
+.google{
+    margin-left: 30%;
+}
+.google2{
+    margin-left: -1.4%;
+}
+.apple{
+    margin-left: 45%;
+    margin-top: -5.2%;
+}
+.apple2{
+    margin-left: -1.4%;
+}
+.facebok{
+    margin-left: 60%;
+    margin-top: -5.2%;
+}
+.facebok2{
+    margin-left: -4%;
+}
+i{
+    font-size: 30px;
+}
+.container5{
+    margin-top: -4%;
+    margin-left: 44%;
+}
+
